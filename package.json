@@ -118,7 +118,7 @@
     "install": "0.12.2",
     "kebab-case": "1.0.0",
     "node-sass": "^4.7.2",
-    "npm": "6.5.0",
+    "npm": "6.14.6",
     "prettier": "1.15.2"
   },
   "config": {
